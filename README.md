@@ -24,9 +24,9 @@ Los integrantes del Equipo son:
 (https://docs.google.com/document/d/18EkdIh1XidEnjCW9tUCOa52JRaREPmKkTVtT-1K4O_w/edit?usp=sharing)
 
 ## Testing de prototipo con usuarios
-(https://trello-attachments.s3.amazonaws.com/5b5b1d5e0a881f95c38d06dc/5b5b1eb17598aa7a172bcf04/728427a159441d002d6edf3003636aee/3D69DFFF-10F9-4752-9924-899B280859B3.mp4)
-(https://trello-attachments.s3.amazonaws.com/5b5b1d5e0a881f95c38d06dc/5b5b1eb17598aa7a172bcf04/315929b99daf1149924366980ea84c36/53E94600-4E68-4BE2-AE97-E4E75A90598D.mp4)
-(https://trello-attachments.s3.amazonaws.com/5b5b1d5e0a881f95c38d06dc/5b5b1eb17598aa7a172bcf04/a42fe3e8230a1dc18c0d7b53f1e05895/8D88FD84-2021-40C6-9A25-901185B41E87.mp4)
+[Video 1](https://trello-attachments.s3.amazonaws.com/5b5b1d5e0a881f95c38d06dc/5b5b1eb17598aa7a172bcf04/728427a159441d002d6edf3003636aee/3D69DFFF-10F9-4752-9924-899B280859B3.mp4)
+[Video 2](https://trello-attachments.s3.amazonaws.com/5b5b1d5e0a881f95c38d06dc/5b5b1eb17598aa7a172bcf04/315929b99daf1149924366980ea84c36/53E94600-4E68-4BE2-AE97-E4E75A90598D.mp4)
+[Video 2](https://trello-attachments.s3.amazonaws.com/5b5b1d5e0a881f95c38d06dc/5b5b1eb17598aa7a172bcf04/a42fe3e8230a1dc18c0d7b53f1e05895/8D88FD84-2021-40C6-9A25-901185B41E87.mp4)
 
 ## Cliente Incógnito
 
