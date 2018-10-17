@@ -67,4 +67,7 @@ El prototipo de Alta Fidelidad fue realizado en Figma, puedes acceder ingresando
 La Organización del Equipo puedes revisarla en este link.
 [Trello](https://trello.com/b/GefglG1c/registro-usuario)
 
+## Proyecto desarrollado para
+[Laboratoria](http://www.laboratoria.la/)
+
 
