@@ -1,4 +1,4 @@
-# Proyecto registro de visitantes
+# Check, registro de visitantes
 
 ## C H E C K
 
