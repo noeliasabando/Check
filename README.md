@@ -6,6 +6,8 @@ El registro de visitantes en las empresas Latinoamericanas es un proceso en gene
 
 Puedes acceder al Proyecto desde el siguiente link [Check](https://noeliasabando.github.io/Check/)
 
+![img proyecto](img/check.png)
+
 ## Introducción
 
 Los integrantes del Equipo son:
